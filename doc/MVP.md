@@ -25,3 +25,7 @@ wget -O /tmp/kub.png https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_do
 curl -F 'image=@/tmp/kub.png' localhost:8088/img/
 
 ![kub1](kub1.gif)
+
+**Налаштування роботи автоматичної синхронізації ArgoCD**
+
+![sync](argocd_sync.gif)
